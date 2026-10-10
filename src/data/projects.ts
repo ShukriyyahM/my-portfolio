@@ -34,7 +34,7 @@ export const projects = [
     title: "GitHub Profile Search",
     description:
       "A GitHub profile search application that allows users to search for GitHub usernames and explore developer profiles through a clean and responsive interface.",
-    image: "/images/profile-search.jpg",
+    image: "/images/profile-search.JPG",
     technologies: [
       "React",
       "JavaScript",
