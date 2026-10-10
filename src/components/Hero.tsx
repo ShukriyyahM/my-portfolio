@@ -60,7 +60,7 @@ export default function Hero() {
             </a>
 
            <a
-             href="/document/shakiirah's cv.pdf"
+             href="/document/shakiirah's.cv.pdf"
              target="_blank"
              rel="noopener noreferrer"
              className="rounded-full border border-[#d7c7b8] px-7 py-3.5 text-sm font-medium text-[#7a5133] hover:bg-[#eee4da]"
