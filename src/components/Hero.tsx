@@ -88,7 +88,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="ishaqshakeerah8@gmail.com"
+              href="mailto:ishaqshakeerah8@gmail.com"
               aria-label="Email"
               className="text-[#6b5e54] hover:-translate-y-1 hover:text-[#7a5133]"
             >
