@@ -14,7 +14,7 @@ export default function Footer() {
               href="/"
               className="text-2xl font-bold tracking-tight"
             >
-              Shukriyyah.
+              Ishaq Shakeerah.
             </Link>
 
             <p className="mt-2 max-w-md text-sm text-[#6b5e54]">
