@@ -25,7 +25,7 @@ export default function Footer() {
 
           <div className="flex items-center gap-5">
             <a
-              href="YOUR_GITHUB_URL"
+              href="https://github.com/ShukriyyahM"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
@@ -35,7 +35,7 @@ export default function Footer() {
             </a>
 
             <a
-              href="YOUR_LINKEDIN_URL"
+              href="https://www.linkedin.com/in/ishaq-shakeerah/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
